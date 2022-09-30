@@ -1,0 +1,11 @@
+@import "style.css";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer components {
+    .insta-feed-section {
+        background-image: url("../images/org-pattern.jpg");
+    }
+  }
